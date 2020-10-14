@@ -1,0 +1,4 @@
+/build
+
+# Ignore IDE specific files
+.vscode/
